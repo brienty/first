@@ -1,0 +1,4 @@
+﻿  test.c
+E:\C\C_project\有序序列合并\有序序列合并\test.c(13,15): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+E:\C\C_project\有序序列合并\有序序列合并\test.c(17,15): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+  有序序列合并.vcxproj -> E:\C\C_project\有序序列合并\Debug\有序序列合并.exe

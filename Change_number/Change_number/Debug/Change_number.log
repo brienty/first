@@ -1,0 +1,4 @@
+﻿  test.c
+E:\C\C_project\Change_number\Change_number\test.c(23,35): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\C\C_project\Change_number\Change_number\test.c(28,35): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Change_number.vcxproj -> E:\C\C_project\Change_number\Debug\Change_number.exe

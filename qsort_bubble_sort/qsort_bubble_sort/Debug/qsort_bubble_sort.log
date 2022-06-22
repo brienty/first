@@ -1,0 +1,4 @@
+﻿  test.c
+E:\C\C_project\qsort_bubble_sort\qsort_bubble_sort\test.c(28,16): warning C4018: “<”: 有符号/无符号不匹配
+E:\C\C_project\qsort_bubble_sort\qsort_bubble_sort\test.c(31,17): warning C4018: “<”: 有符号/无符号不匹配
+  qsort_bubble_sort.vcxproj -> E:\C\C_project\qsort_bubble_sort\Debug\qsort_bubble_sort.exe

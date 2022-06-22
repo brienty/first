@@ -1,0 +1,9 @@
+﻿  main.c
+E:\project\C\demo\main.c(17,21): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\project\C\demo\main.c(18,17): warning C4305: “=”: 从“double”到“float”截断
+E:\project\C\demo\main.c(18,36): warning C4305: “-=”: 从“double”到“float”截断
+E:\project\C\demo\main.c(20,37): warning C4305: “+=”: 从“double”到“float”截断
+E:\project\C\demo\main.c(66,21): warning C4305: “=”: 从“double”到“float”截断
+E:\project\C\demo\main.c(66,40): warning C4305: “-=”: 从“double”到“float”截断
+E:\project\C\demo\main.c(68,41): warning C4305: “+=”: 从“double”到“float”截断
+  demo.vcxproj -> E:\project\C\demo\Debug\demo.exe
