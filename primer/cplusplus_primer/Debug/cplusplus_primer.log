@@ -1,0 +1,4 @@
+﻿  test.cpp
+E:\Cplusplus\cplusplus_primer\cplusplus_primer\test.cpp(116,7): warning C4101: “c”: 未引用的局部变量
+E:\Cplusplus\cplusplus_primer\cplusplus_primer\test.cpp(115,6): warning C4101: “t”: 未引用的局部变量
+E:\Cplusplus\cplusplus_primer\cplusplus_primer\test.cpp(114,9): warning C4101: “d”: 未引用的局部变量
