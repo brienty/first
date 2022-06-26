@@ -1,0 +1,5 @@
+﻿  test3.c
+E:\Elementary_data_structure\SList_OJ_second\SList_OJ_second\test3.c(56,1): warning C4133: “初始化”: 从“Listnode *”到“ListNode *”的类型不兼容
+E:\Elementary_data_structure\SList_OJ_second\SList_OJ_second\test3.c(57,1): warning C4133: “初始化”: 从“Listnode *”到“ListNode *”的类型不兼容
+E:\Elementary_data_structure\SList_OJ_second\SList_OJ_second\test3.c(58,1): warning C4133: “初始化”: 从“Listnode *”到“ListNode *”的类型不兼容
+  SList_OJ_second.vcxproj -> E:\Elementary_data_structure\SList_OJ_second\Debug\SList_OJ_second.exe

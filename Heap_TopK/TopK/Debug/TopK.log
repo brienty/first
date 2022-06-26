@@ -1,0 +1,4 @@
+﻿  test.cpp
+E:\Elementary_data_structure\TopK\TopK\test.cpp(85,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\Elementary_data_structure\TopK\TopK\test.cpp(86,23): warning C4018: “<”: 有符号/无符号不匹配
+  TopK.vcxproj -> E:\Elementary_data_structure\TopK\Debug\TopK.exe

@@ -1,0 +1,4 @@
+﻿  Heap.c
+E:\Elementary_data_structure\Heap\Heap\Heap.c(77,15): warning C4018: “<”: 有符号/无符号不匹配
+E:\Elementary_data_structure\Heap\Heap\Heap.c(80,48): warning C4018: “<”: 有符号/无符号不匹配
+  Heap.vcxproj -> E:\Elementary_data_structure\Heap\Debug\Heap.exe

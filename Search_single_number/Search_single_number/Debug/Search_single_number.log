@@ -1,0 +1,4 @@
+﻿  test.c
+E:\Elementary_data_structure\Search_single_number\Search_single_number\test.c(24,9): warning C4033: “singleNumbers”必须返回值
+E:\Elementary_data_structure\Search_single_number\Search_single_number\test.c(58): warning C4715: “singleNumbers”: 不是所有的控件路径都返回值
+  Search_single_number.vcxproj -> E:\Elementary_data_structure\Search_single_number\Debug\Search_single_number.exe

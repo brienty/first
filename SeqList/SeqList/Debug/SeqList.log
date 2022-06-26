@@ -1,0 +1,6 @@
+﻿  SeqList.c
+E:\Elementary_data_structure\SeqList\SeqList\SeqList.c(98,10): warning C4018: “>”: 有符号/无符号不匹配
+E:\Elementary_data_structure\SeqList\SeqList\SeqList.c(129,10): warning C4018: “>=”: 有符号/无符号不匹配
+E:\Elementary_data_structure\SeqList\SeqList\SeqList.c(138,15): warning C4018: “<”: 有符号/无符号不匹配
+E:\Elementary_data_structure\SeqList\SeqList\SeqList.c(169,10): warning C4018: “>=”: 有符号/无符号不匹配
+  SeqList.vcxproj -> E:\Elementary_data_structure\SeqList\Debug\SeqList.exe
