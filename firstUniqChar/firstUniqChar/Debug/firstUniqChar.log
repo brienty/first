@@ -1,0 +1,4 @@
+﻿  test.cpp
+E:\cplusplus_code\firstUniqChar\firstUniqChar\test.cpp(9,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\cplusplus_code\firstUniqChar\firstUniqChar\test.cpp(15,23): warning C4018: “<”: 有符号/无符号不匹配
+  firstUniqChar.vcxproj -> E:\cplusplus_code\firstUniqChar\Debug\firstUniqChar.exe
