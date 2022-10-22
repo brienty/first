@@ -1,0 +1,4 @@
+﻿  test.cpp
+E:\cplusplus_code\not_tow\not_tow\test.cpp(16,27): warning C4018: “<”: 有符号/无符号不匹配
+E:\cplusplus_code\not_tow\not_tow\test.cpp(17,31): warning C4018: “<”: 有符号/无符号不匹配
+  not_tow.vcxproj -> E:\cplusplus_code\not_tow\Debug\not_tow.exe

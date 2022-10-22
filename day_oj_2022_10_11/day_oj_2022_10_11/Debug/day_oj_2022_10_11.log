@@ -1,0 +1,7 @@
+﻿  test.cpp
+E:\cplusplus_code\day_oj_2022_10_11\day_oj_2022_10_11\test.cpp(25,5): error C2084: 函数“int main(void)”已有主体
+E:\cplusplus_code\day_oj_2022_10_11\day_oj_2022_10_11\test.cpp(5): message : 参见“main”的前一个定义
+E:\cplusplus_code\day_oj_2022_10_11\day_oj_2022_10_11\test.cpp(34,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\cplusplus_code\day_oj_2022_10_11\day_oj_2022_10_11\test.cpp(36,27): warning C4018: “<”: 有符号/无符号不匹配
+E:\cplusplus_code\day_oj_2022_10_11\day_oj_2022_10_11\test.cpp(41,40): warning C4018: “<”: 有符号/无符号不匹配
+E:\cplusplus_code\day_oj_2022_10_11\day_oj_2022_10_11\test.cpp(41,57): warning C4018: “<”: 有符号/无符号不匹配

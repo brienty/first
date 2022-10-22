@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindGreatestSumOfSubArray", "FindGreatestSumOfSubArray\FindGreatestSumOfSubArray.vcxproj", "{EA2FD324-B6B6-44D2-8C97-1EC72FDF8C3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA2FD324-B6B6-44D2-8C97-1EC72FDF8C3F}.Debug|x64.ActiveCfg = Debug|x64
+		{EA2FD324-B6B6-44D2-8C97-1EC72FDF8C3F}.Debug|x64.Build.0 = Debug|x64
+		{EA2FD324-B6B6-44D2-8C97-1EC72FDF8C3F}.Debug|x86.ActiveCfg = Debug|Win32
+		{EA2FD324-B6B6-44D2-8C97-1EC72FDF8C3F}.Debug|x86.Build.0 = Debug|Win32
+		{EA2FD324-B6B6-44D2-8C97-1EC72FDF8C3F}.Release|x64.ActiveCfg = Release|x64
+		{EA2FD324-B6B6-44D2-8C97-1EC72FDF8C3F}.Release|x64.Build.0 = Release|x64
+		{EA2FD324-B6B6-44D2-8C97-1EC72FDF8C3F}.Release|x86.ActiveCfg = Release|Win32
+		{EA2FD324-B6B6-44D2-8C97-1EC72FDF8C3F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19F914DA-56BC-403A-97A6-489EE82B1D38}
+	EndGlobalSection
+EndGlobal

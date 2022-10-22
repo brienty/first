@@ -1,0 +1,4 @@
+﻿  test.cpp
+E:\cplusplus_code\Infix_Inverse_Polish_expression_evaluation\Infix_Inverse_Polish_expression_evaluation\test.cpp(11,11): warning C4018: “<”: 有符号/无符号不匹配
+E:\cplusplus_code\Infix_Inverse_Polish_expression_evaluation\Infix_Inverse_Polish_expression_evaluation\test.cpp(30,12): warning C4018: “<”: 有符号/无符号不匹配
+  Infix_Inverse_Polish_expression_evaluation.vcxproj -> E:\cplusplus_code\Infix_Inverse_Polish_expression_evaluation\Debug\Infix_Inverse_Polish_expression_evaluation.exe

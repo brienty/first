@@ -1,0 +1,4 @@
+﻿  test.cpp
+E:\cplusplus_code\Legal_bracket_sequence_judgment\Legal_bracket_sequence_judgment\test.cpp(12,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\cplusplus_code\Legal_bracket_sequence_judgment\Legal_bracket_sequence_judgment\test.cpp(22,23): warning C4018: “<”: 有符号/无符号不匹配
+  Legal_bracket_sequence_judgment.vcxproj -> E:\cplusplus_code\Legal_bracket_sequence_judgment\Debug\Legal_bracket_sequence_judgment.exe

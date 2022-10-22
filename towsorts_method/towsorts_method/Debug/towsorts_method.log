@@ -1,0 +1,4 @@
+﻿  test.cpp
+E:\cplusplus_code\towsorts_method\towsorts_method\test.cpp(10,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\cplusplus_code\towsorts_method\towsorts_method\test.cpp(21,23): warning C4018: “<”: 有符号/无符号不匹配
+  towsorts_method.vcxproj -> E:\cplusplus_code\towsorts_method\Debug\towsorts_method.exe

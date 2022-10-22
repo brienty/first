@@ -1,0 +1,3 @@
+﻿  test.cpp
+E:\cplusplus_code\Judge_Perfect_number\Judge_Perfect_number\test.cpp(15,23): warning C4018: “<”: 有符号/无符号不匹配
+  Judge_Perfect_number.vcxproj -> E:\cplusplus_code\Judge_Perfect_number\Debug\Judge_Perfect_number.exe

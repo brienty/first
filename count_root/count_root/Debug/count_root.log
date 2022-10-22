@@ -1,0 +1,3 @@
+﻿  test.cpp
+E:\cplusplus_code\count_root\count_root\test.cpp(11,27): warning C4018: “<”: 有符号/无符号不匹配
+  count_root.vcxproj -> E:\cplusplus_code\count_root\Debug\count_root.exe

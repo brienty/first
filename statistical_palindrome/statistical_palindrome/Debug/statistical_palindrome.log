@@ -1,0 +1,3 @@
+﻿  test.cpp
+E:\cplusplus_code\statistical_palindrome\statistical_palindrome\test.cpp(37,23): warning C4018: “<”: 有符号/无符号不匹配
+  statistical_palindrome.vcxproj -> E:\cplusplus_code\statistical_palindrome\Debug\statistical_palindrome.exe

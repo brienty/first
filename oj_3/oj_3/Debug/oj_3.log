@@ -1,0 +1,5 @@
+﻿  test.cpp
+E:\cplusplus_code\oj_3\oj_3\test.cpp(14,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\cplusplus_code\oj_3\oj_3\test.cpp(25,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\cplusplus_code\oj_3\oj_3\test.cpp(40,27): warning C4018: “<”: 有符号/无符号不匹配
+E:\cplusplus_code\oj_3\oj_3\test.cpp(47,26): warning C4018: “>”: 有符号/无符号不匹配

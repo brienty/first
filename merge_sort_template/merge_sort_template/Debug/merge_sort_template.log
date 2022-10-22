@@ -1,0 +1,3 @@
+﻿  test.cpp
+E:\cplusplus_code\merge_sort_template\merge_sort_template\test.cpp(15,25): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  merge_sort_template.vcxproj -> E:\cplusplus_code\merge_sort_template\Debug\merge_sort_template.exe

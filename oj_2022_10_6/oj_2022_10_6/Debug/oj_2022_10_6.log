@@ -1,0 +1,9 @@
+﻿  test.cpp
+E:\cplusplus_code\oj_2022_10_6\oj_2022_10_6\test.cpp(9,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\cplusplus_code\oj_2022_10_6\oj_2022_10_6\test.cpp(11,31): warning C4018: “<”: 有符号/无符号不匹配
+E:\cplusplus_code\oj_2022_10_6\oj_2022_10_6\test.cpp(46,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\cplusplus_code\oj_2022_10_6\oj_2022_10_6\test.cpp(130,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\cplusplus_code\oj_2022_10_6\oj_2022_10_6\test.cpp(132,19): warning C4018: “>”: 有符号/无符号不匹配
+E:\cplusplus_code\oj_2022_10_6\oj_2022_10_6\test.cpp(141,18): warning C4018: “<”: 有符号/无符号不匹配
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+E:\cplusplus_code\oj_2022_10_6\Debug\oj_2022_10_6.exe : fatal error LNK1120: 1 个无法解析的外部命令

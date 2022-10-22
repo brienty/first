@@ -1,0 +1,4 @@
+﻿  test.cpp
+E:\cplusplus_code\encrypted_information\encrypted_information\test.cpp(13,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\cplusplus_code\encrypted_information\encrypted_information\test.cpp(26,23): warning C4018: “<”: 有符号/无符号不匹配
+  encrypted_information.vcxproj -> E:\cplusplus_code\encrypted_information\Debug\encrypted_information.exe
